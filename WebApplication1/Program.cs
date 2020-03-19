@@ -7,6 +7,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+
+// 20.03.19 주석 추가함
+
 namespace WebApplication1 {
     public class Program {
         public static void Main(string[] args) {
