@@ -17,7 +17,7 @@ namespace WebApplication1 {
 
             // This is my TEST 광수유 하하호호하하호호
             // 이 라인은 깃허브에서 작성한 코드입니다.
-
+            // 깃허브에서 로컬로 가져올 때는 pull 명령어를 사용해야 합니다 at Local
 
 
         public void ConfigureServices(IServiceCollection services) {
